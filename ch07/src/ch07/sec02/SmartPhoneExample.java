@@ -11,7 +11,7 @@ public class SmartPhoneExample {
 		
 		myPhone.bell();
 		myPhone.sendVoice("여보세요");
-		myPhone.receiveVoice("안녕하세요! 저는 홍길동인데요!");
+		myPhone.receiveVoice("안녕하세요! 저는 홍길동인데요!!!!");
 		myPhone.sendVoice("아~ 네, 반갑습니다.");
 		myPhone.hangup();
 		
